@@ -38,7 +38,7 @@ Olá! Neste guia, vou te mostrar como utilizei o Azure AI Vision para análise d
 
 ## Próximos Passos
 
-[![Baixe o video do projeto aqui!](input/vision-studio-azureML.mp4)]
+[[Baixe o video do projeto aqui!](input/vision-studio-azureML.mp4)]
 
 ![Capitura de imagem](input/Captura02.png)
 
