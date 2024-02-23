@@ -40,6 +40,9 @@ Olá! Neste guia, vou te mostrar como utilizei o Azure AI Vision para análise d
 
 [![Apresentação do Produto](input/vision-studio-azureML.mp4)]
 
+![Capitura de imagem](input/Captura02.png)
+
+
 ## Saiba Mais
 
 Para entender melhor sobre o serviço de Detecção Facial da IA do Azure, confira [O que é o serviço de Detecção Facial da IA do Azure?](https://learn.microsoft.com/pt-br/azure/ai-services/computer-vision/overview-identity).
